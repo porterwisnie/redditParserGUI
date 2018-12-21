@@ -6,3 +6,7 @@ Sample Image of Application
 
 Also used the color system to create an alternate dark mode for easier reading
 ![tkintestdark](https://user-images.githubusercontent.com/38479189/50364815-ecbdb180-052e-11e9-8a7a-ecf11b8118e1.png)
+
+
+And then finally after running the parser
+![tkintestdark](https://user-images.githubusercontent.com/38479189/50364815-ecbdb180-052e-11e9-8a7a-ecf11b8118e1.png)
